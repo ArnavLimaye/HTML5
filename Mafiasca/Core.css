@@ -1,0 +1,10 @@
+﻿body {
+    border:dashed 2px solid blue;
+}
+
+.header {
+    border : 5px solid red;
+    background:url(mafia3.jpg);
+    text-decoration-color: white;
+}
+
