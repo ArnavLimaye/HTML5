@@ -1,4 +1,4 @@
-﻿#registrationForm {
+﻿.registrationForm {
     top: 50%;
     left: 50%;
     width:30em;
@@ -7,5 +7,19 @@
     margin-left: -15em; /*set to a negative number 1/2 of your width*/
     border: 1px solid #ccc;
     background-color: #f3f3f3;
-    position:fixed;
+    position:absolute;
+    box-shadow: 8px 10px 5px #888888;
+    background-color:#E6E6E6;
+}
+
+
+#registrationForm  {
+  width: 800px;
+  height:800px;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+div {  
+    border-radius: 25px;
 }
