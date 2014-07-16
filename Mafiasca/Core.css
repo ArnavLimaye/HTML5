@@ -4,7 +4,8 @@
 
 .header {
     border : 5px solid red;
-    background:url(mafia3.jpg);
+    /*background:url(mafia3.jpg);*/
+    background-size: 80px 50px;
     text-decoration-color: white;
 }
 
